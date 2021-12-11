@@ -1,6 +1,7 @@
 {
    "tokens": [
       {
+         "id":0,
          "name":"Peg 008",
          "description":"Peg 008 by Matt Furie, 'Slimer' family",
          "image":"https://ipfs.io/ipfs/QmdNzhAiFiE6oHDGAmini6U86GJtMbZybSztrDErX6D6ZA/peg008.gif",
@@ -26,6 +27,7 @@
          ]
       },
       {
+         "id":1,
          "name":"Peg 008",
          "description":"Peg 008 by Matt Furie, 'Slimer' family",
          "image":"https://ipfs.io/ipfs/QmdNzhAiFiE6oHDGAmini6U86GJtMbZybSztrDErX6D6ZA/peg008.gif",
