@@ -24,6 +24,31 @@
                "value":"Matt Furie"
             }
          ]
+      },
+      {
+         "name":"Peg 008",
+         "description":"Peg 008 by Matt Furie, 'Slimer' family",
+         "image":"https://ipfs.io/ipfs/QmdNzhAiFiE6oHDGAmini6U86GJtMbZybSztrDErX6D6ZA/peg008.gif",
+         "animation_url":"https://ipfs.io/ipfs/QmYxCgyZRjbrXbKfqCrhfp3HFcBN31D9yXv2XetH2VBaHb/peg008.glb",
+         "avatar_url":"https://ipfs.io/ipfs/QmYTgGWLpz9wDvQRsVM8zMmj2uoj3Esz7zZyAU6CFizBZu/PEGZ008.png",
+         "tokenId":"0",
+         "mediaType":"model/gltf-binary",
+         "media":{
+            "uri":"https://ipfs.io/ipfs/QmYxCgyZRjbrXbKfqCrhfp3HFcBN31D9yXv2XetH2VBaHb/peg008.glb",
+            "dimensions":null,
+            "size":337.48,
+            "mimeType":"model/gltf-binary"
+         },
+         "attributes":[
+            {
+               "trait_type":"Creature",
+               "value":"ðŸ’§  slimer"
+            },
+            {
+               "trait_type":"Artist",
+               "value":"Matt Furie"
+            }
+         ]
       }
    ]
 }
